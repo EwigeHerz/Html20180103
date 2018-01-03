@@ -1,0 +1,26 @@
+
+#ft{
+    text-align: center;
+    font-size: 40px;
+    font-family: 華康娃娃體W7;
+    color: black;
+}
+#sensei {
+    text-align: left;
+    border-radius: 20%;
+    margin-top: 30px;
+    margin-right: 150px;
+    margin-left: 785px;
+}
+#text1{
+    text-align: center;
+    font-family: 華康娃娃體W7;
+    font-size: 30px;
+}
+
+footer{
+    text-align: center;
+    z-index: -4;
+    background: linear-gradient(-90deg,snow,gray);
+    opacity: 0.7;
+}
